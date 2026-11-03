@@ -1,0 +1,6 @@
+# Generated example renders (huge SVG-in-HTML and A4 PDFs) and test fixtures:
+# expensive to extract semantically, little structural value.
+.claude/skills/anatomy/examples/**/*.html
+.claude/skills/anatomy/examples/**/*.pdf
+.claude/skills/anatomy/tests/fixtures/
+.claude/skills/anatomy/.github/assets/
